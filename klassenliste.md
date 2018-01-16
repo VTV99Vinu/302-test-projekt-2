@@ -23,5 +23,5 @@
 |Supatra |        |
 |Thomas  |        |
 |Umar    |        |
-|Vinujhan|        |
+|Vinujhan|   X    |
 |Yannis  |        |
